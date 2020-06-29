@@ -1,0 +1,22 @@
+﻿  AreaLight.cpp
+F:\Portfolio\Spheres\Spheres\AreaLight.cpp(10,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Portfolio\Spheres\Spheres\AreaLight.cpp(13,14): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  AxisAlignedBounding.cpp
+  light.cpp
+  Main.cpp
+F:\Portfolio\Spheres\Spheres\Main.cpp(42,11): warning C4244: 'initializing': conversion from 'genType' to 'float', possible loss of data
+          with
+          [
+              genType=double
+          ]
+F:\Portfolio\Spheres\Spheres\Main.cpp(186,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Portfolio\Spheres\Spheres\Main.cpp(187,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  objloader.cpp
+F:\Portfolio\Spheres\Spheres\objloader.cpp(51,33): warning C4101: 'uvIndex': unreferenced local variable
+  Plane.cpp
+  Shape.cpp
+  Sphere.cpp
+  Triangle.cpp
+  Generating Code...
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+  Spheres.vcxproj -> F:\Portfolio\Spheres\x64\Release\Spheres.exe

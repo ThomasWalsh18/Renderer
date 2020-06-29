@@ -1,0 +1,10 @@
+﻿  Main.cpp
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(15,11): warning C4244:  'initializing': conversion from 'genType' to 'float', possible loss of data
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(15,11): warning C4244:         with
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(15,11): warning C4244:         [
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(15,11): warning C4244:             genType=double
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(15,11): warning C4244:         ]
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(44,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(77,22): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\tomth\Desktop\Spheres - Copy\Spheres\Main.cpp(111,20): warning C4018:  '<': signed/unsigned mismatch
+  Spheres.vcxproj -> C:\Users\tomth\Desktop\Spheres - Copy\Debug\Spheres.exe
